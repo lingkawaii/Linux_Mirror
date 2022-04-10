@@ -1,0 +1,9 @@
+#ALiYun
+deb httpmirrors.aliyun.comdebian bullseye main non-free contrib
+deb-src httpmirrors.aliyun.comdebian bullseye main non-free contrib
+deb httpmirrors.aliyun.comdebian-security bullseye-security main
+deb-src httpmirrors.aliyun.comdebian-security bullseye-security main
+deb httpmirrors.aliyun.comdebian bullseye-updates main non-free contrib
+deb-src httpmirrors.aliyun.comdebian bullseye-updates main non-free contrib
+deb httpmirrors.aliyun.comdebian bullseye-backports main non-free contrib
+deb-src httpmirrors.aliyun.comdebian bullseye-backports main non-free contrib
